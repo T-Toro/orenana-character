@@ -19,16 +19,15 @@ a {
 	text-decoration: none;
 	color: inherit;
 }
-.cp_cont {
-	height: 65vh;
-}
+
 .cp_offcm01 {
 	position: absolute;
+	height: 65vh;
 	top: 20px;
 	right: 20px;
 	display: inline-block;
 }
-/* menu */
+
 .cp_offcm01 .cp_menu {
 	position: fixed;
 	top: 0;
@@ -67,7 +66,7 @@ a {
 	-webkit-transform: translateX(-100vw);
 	        transform: translateX(-100vw);
 }
-/* menu toggle */
+
 .cp_offcm01 #cp_toggle01 ~ label {
 	display: block;
 	padding: 0.5em;
@@ -90,11 +89,6 @@ a {
 }
 .cp_offcm01 #cp_toggle01:checked ~ label::before {
 	content: '\f00d';
-}
-/* contents */
-.cp_contents {
-	color: #333333;
-	text-align: center;
 }
 
 @media all and (max-width: 1000px) {
