@@ -22,10 +22,6 @@ a {
 	color: inherit;
 }
 
-.cp_cont {
-	display: none;
-}
-
 .cp_offcm01 {
 	position: absolute;
 	top: 20px;
@@ -93,10 +89,4 @@ a {
 }
 .cp_offcm01 #cp_toggle01:checked ~ label::before {
 	content: '\f00d';
-}
-
-@media all and (max-width: 670px) {
-  .cp_cont {
-    display: block;
-  }
 }
