@@ -92,13 +92,13 @@ a {
 }
 
 @media all and (max-width: 1000px) {
-  .menu {
+  .cp_cont {
     display: none;
   }
 }
 
 @media all and (max-width: 670px) {
-  .menu {
+  .cp_cont {
     display: block;
   }
 }
