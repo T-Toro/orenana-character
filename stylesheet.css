@@ -2,6 +2,13 @@
   box-sizing: border-box;
 }
 
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+
 body {
   margin: 0;
   font-family:"Noto Serif JP";
@@ -42,6 +49,8 @@ header {
 .header-right a:hover{
   background-color: #e6ffff;
 }
+
+
 
 footer a {
   margin-bottom: 10px;
