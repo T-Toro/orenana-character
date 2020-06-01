@@ -8,7 +8,6 @@
   margin: 0 auto;
 }
 
-
 body {
   margin: 0;
   font-family:"Noto Serif JP";
@@ -50,7 +49,24 @@ header {
   background-color: #e6ffff;
 }
 
+.character-wrapper {
+  height:2000px;
+  padding-bottom: 50px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #ebf6f7;
+  text-align: right;
+}
 
+.heading {
+  padding-top: 70px;
+  padding-bottom: 50px;
+  color: black;
+}
+
+.character-illust {
+	width: 70%;
+}
 
 footer a {
   margin-bottom: 10px;
