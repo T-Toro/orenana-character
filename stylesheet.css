@@ -60,17 +60,15 @@ header {
 .character {
   position: relative;
   overflow: hidden;
-  width: 338;
-  height: 600px;
   margin: 1em 0;
 }
 
 .character-illust {
   position: absolute;
-  top: 75%;
-  left: 30px;
+  top: 10%;
+  left: 65px;
   right: 0;
-  width: 450px;
+  width: 385px;
   margin: auto;
 }
 
@@ -82,34 +80,50 @@ header {
 
 .igarashi {
   background-image: url(blue.jpg);
+  width: auto;
+  height: 600px;
 }
 
 .sakurai {
   background-image: url(pink.jpg);
+  width: auto;
+  height: 600px;
 }
 
 .inoue {
   background-image: url(red.jpg);
+  width: auto;
+  height: 600px;
 }
 
 .taguchi {
   background-image: url(orange.jpg);
+  width: auto;
+  height: 600px;
 }
 
 .kitamura {
   background-image: url(yellow.jpg);
+  width: auto;
+  height: 600px;
 }
 
 .yamamoto {
   background-image: url(green.jpg);
+  width: auto;
+  height: 600px;
 }
 
 .morimoto {
   background-image: url(indigo.jpg);
+  width: auto;
+  height: 600px;
 }
 
 .sakuma {
   background-image: url(purple.jpg);
+  width: auto;
+  height: 600px;
 }
 
 .heading {
