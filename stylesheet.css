@@ -65,17 +65,18 @@ header {
 
 .character-illust {
   position: absolute;
-  top: 10%;
-  left: 65px;
+  top: 2%;
   right: 0;
-  width: 385px;
-  margin: auto;
+  width: 277px;
 }
 
 .character-intro {
+  position: relative;
   text-align: left;
-  margin-top: 5%;
+  padding-top: 5%;
+  padding-left: 5%;
   font-size: 25px;
+  z-index:3;
 }
 
 .igarashi {
@@ -254,10 +255,18 @@ a {
 
 @media all and (max-width: 670px) {
 	.header-right {
-	display: none;
+		display: none;
 	}
 	
 	.cp_cont {
-	display: block;
+		display: block;
+	}
+}
+
+@media all and (max-width: 480px) {
+	.character-illust {
+		top: 10%;
+		left: 65px;
+		width: 385px;
 	}
 }
