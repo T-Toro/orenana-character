@@ -279,7 +279,7 @@ a {
 		width: 385px;
 	}
 	
-	h2 .emphasis {
+	.emphasis {
 		font-weight: bold;
 		text-shadow: 5px 5px 1px #999999;
 		transform: rotate(20deg);
@@ -291,9 +291,9 @@ a {
 		z-index: 2;
 	}
 	
-	h2 span {
+	span {
 		display: block;
-		margin-left:70px;
+		margin-left: 70px;
 	}
 	
 	.cp_cont {
