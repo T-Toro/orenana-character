@@ -68,6 +68,7 @@ header {
   top: 2%;
   right: 0;
   width: 277px;
+  z-index: 3;
 }
 
 .character-intro {
@@ -149,8 +150,6 @@ h2 .emphasis {
   text-align: center;
   color: black;
 }
-
-
 
 footer a {
   margin-bottom: 10px;
