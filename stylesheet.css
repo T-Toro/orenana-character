@@ -79,12 +79,24 @@ header {
   z-index:3;
 }
 
+h2 {
+  display: none;
+}
+
 .igarashi {
   background-image: url(blue.jpg);
   width: auto;
   height: 600px;
 }
 
+.igarashi2 {
+  position: relative;
+  top: -345px;
+  width: 63%;
+  margin-left: 5%;
+  font-size: 19px;
+}
+	
 .sakurai {
   background-image: url(pink.jpg);
   width: auto;
