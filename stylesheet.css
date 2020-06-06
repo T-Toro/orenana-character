@@ -87,60 +87,77 @@ header {
   z-index: 2;
 }
 
-.igarashi {
-  background-image: url(blue.jpg);
-  width: auto;
-  height: 600px;
-}
-
 .syosai {
   position: relative;
   top: -345px;
   width: 63%;
+  margin-top: 2%;
   margin-left: 5%;
   font-size: 19px;
 }
 	
+.igarashi {
+  background-image: url(blue.jpg);
+  width: auto;
+  height: 600px;
+  position: relative;
+  display: hidden;
+}
+
 .sakurai {
   background-image: url(pink.jpg);
   width: auto;
   height: 600px;
+  position: relative;
+  display: hidden;
 }
 
 .inoue {
   background-image: url(red.jpg);
   width: auto;
   height: 600px;
+  position: relative;
+  display: hidden;
 }
 
 .taguchi {
   background-image: url(orange.jpg);
   width: auto;
   height: 600px;
+  position: relative;
+  display: hidden;
 }
 
 .kitamura {
   background-image: url(yellow.jpg);
   width: auto;
   height: 600px;
+  position: relative;
+  display: hidden;
 }
 
 .yamamoto {
   background-image: url(green.jpg);
   width: auto;
   height: 600px;
+  position: relative;
+  display: hidden;
 }
 
 .morimoto {
   background-image: url(indigo.jpg);
   width: auto;
   height: 600px;
+  position: relative;
+  display: hidden;
 }
 
 .sakuma {
   background-image: url(purple.jpg);
   width: auto;
   height: 600px;
+  position: relative;
+  display: hidden;
 }
 
 .heading {
@@ -282,8 +299,6 @@ a {
 		top: 0;
 		width: 100%;
 		margin-left: 0;
-		background-color: #ebf6f7;
-		z-index: 5;
 		font-size: 16px;
 		padding-bottom: 25px;
 	}
