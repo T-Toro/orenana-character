@@ -93,7 +93,7 @@ header {
   height: 600px;
 }
 
-.igarashi2 {
+.syosai {
   position: relative;
   top: -345px;
   width: 63%;
@@ -278,9 +278,9 @@ a {
 		width: 385px;
 	}
 	
-	.igarashi2 {
+	.syosai {
 		top: 0;
-		width: 0;
+		width: 100%;
 		margin-left: 0;
 		back-ground-color: #ebf6f7;
 		z-index: 5;
