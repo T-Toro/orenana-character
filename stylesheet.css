@@ -80,10 +80,11 @@ header {
   z-index:3;
 }
 
-h2 .emphasis {
+.emphasis {
   color: #000;
   font-weight: bold;
   text-shadow: 5px 5px 1px #999999;
+  z-index: 2;
 }
 
 .igarashi {
@@ -288,15 +289,12 @@ a {
 	}
 	
 	.emphasis {
-		font-weight: bold;
-		text-shadow: 5px 5px 1px #999999;
 		transform: rotate(45deg);
 		font-size: 41px;
 		position: relative;
 		top: 25%;
 		margin-right: -55%;
 		right: 100px;
-		z-index: 2;
 	}
 	
 	span {
