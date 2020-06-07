@@ -101,7 +101,7 @@ header {
   width: auto;
   height: 600px;
   position: relative;
-  display: hidden;
+  overflow: hidden;
 }
 
 .sakurai {
