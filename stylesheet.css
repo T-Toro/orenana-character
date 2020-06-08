@@ -109,7 +109,7 @@ header {
   width: auto;
   height: 600px;
   position: relative;
-  display: hidden;
+  overflow: hidden;
 }
 
 .inoue {
@@ -117,7 +117,7 @@ header {
   width: auto;
   height: 600px;
   position: relative;
-  display: hidden;
+  overflow: hidden;
 }
 
 .taguchi {
@@ -125,7 +125,7 @@ header {
   width: auto;
   height: 600px;
   position: relative;
-  display: hidden;
+  overflow: hidden;
 }
 
 .kitamura {
@@ -133,7 +133,7 @@ header {
   width: auto;
   height: 600px;
   position: relative;
-  display: hidden;
+  overflow: hidden;
 }
 
 .yamamoto {
@@ -141,7 +141,7 @@ header {
   width: auto;
   height: 600px;
   position: relative;
-  display: hidden;
+  overflow: hidden;
 }
 
 .morimoto {
@@ -149,7 +149,7 @@ header {
   width: auto;
   height: 600px;
   position: relative;
-  display: hidden;
+  overflow: hidden;
 }
 
 .sakuma {
@@ -157,7 +157,7 @@ header {
   width: auto;
   height: 600px;
   position: relative;
-  display: hidden;
+  overflow: hidden;
 }
 
 .heading {
