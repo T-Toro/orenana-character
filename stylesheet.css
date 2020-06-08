@@ -92,7 +92,7 @@ header {
 
 .syosai {
   position: relative;
-  top: -345px;
+  top: -310px;
   width: 63%;
   margin-top: 2%;
   margin-left: 5%;
@@ -308,7 +308,7 @@ a {
 	
 	.emphasis {
 		transform: rotate(45deg);
-		font-size: 41px;
+		font-size: 40px;
 		position: relative;
 		top: 25%;
 		margin-right: -55%;
