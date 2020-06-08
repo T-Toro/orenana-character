@@ -81,10 +81,13 @@ header {
 }
 
 .emphasis {
+  position: relative;
   color: #000;
   font-weight: bold;
   text-shadow: 5px 5px 1px #999999;
   z-index: 2;
+  padding-left: 3%;
+  top: 5px;
 }
 
 .syosai {
@@ -93,7 +96,7 @@ header {
   width: 63%;
   margin-top: 2%;
   margin-left: 5%;
-  font-size: 19px;
+  font-size: 17px;
 }
 	
 .igarashi {
