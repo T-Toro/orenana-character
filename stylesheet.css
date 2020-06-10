@@ -2,15 +2,15 @@
   box-sizing: border-box;
 }
 
+body {
+  margin: 0;
+  font-family:"Noto Serif JP";
+}
+
 .container {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
-}
-
-body {
-  margin: 0;
-  font-family:"Noto Serif JP";
 }
 
 header {
@@ -311,12 +311,6 @@ a {
 }
 .cp_offcm01 #cp_toggle01:checked ~ label::before {
 	content: '\f00d';
-}
-
-@media all and (max-width: 1000px) {
-	footer {
-		text-align: center;
-	}
 }
 
 @media all and (max-width: 670px) {
