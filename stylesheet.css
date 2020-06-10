@@ -365,17 +365,22 @@ a {
 	}
 	
 	.emphasis {
-		transform: rotate(45deg);
-		font-size: 40px;
+		transform: rotate(25deg);
+		font-size: 60px;
 		position: relative;
-		top: 25%;
-		margin-right: -55%;
-		right: 100px;
+		top: 18%;
+		margin-right: -20%;
+		right: 85px;
+		white-space: nowrap;
 	}
 	
 	span {
 		display: block;
-		margin-left: 70px;
+		margin-left: 120px;
+	}
+	
+	.character-intro {
+		font-size: 22px;
 	}
 	
 	.cp_cont {
