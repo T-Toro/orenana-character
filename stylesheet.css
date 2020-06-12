@@ -108,7 +108,7 @@ header {
 }
 
 .igarashi2 {
-  display: none
+  height: 10px;
 }
 
 .sakurai {
@@ -120,7 +120,7 @@ header {
 }
 
 .sakurai2{
-  display: none
+  height: 10px;
 }
 
 .inoue {
@@ -132,7 +132,7 @@ header {
 }
 
 .inoue2{
-  display: none
+  height: 10px;
 }
 
 .taguchi {
@@ -144,7 +144,7 @@ header {
 }
 
 .taguchi2{
-  display: none
+  height: 10px;
 }
 
 .kitamura {
@@ -156,7 +156,7 @@ header {
 }
 
 .kitamura2{
-  display: none
+  height: 10px;
 }
 
 .yamamoto {
@@ -168,7 +168,7 @@ header {
 }
 
 .yamamoto2{
-  display: none
+  height: 10px;
 }
 
 .morimoto {
@@ -180,7 +180,7 @@ header {
 }
 
 .morimoto2{
-  display: none
+  height: 10px;
 }
 
 .sakuma {
@@ -192,7 +192,7 @@ header {
 }
 
 .sakuma2{
-  display: none
+  height: 10px;
 }
 
 .heading {
@@ -325,42 +325,34 @@ a {
 	}
 	
 	.igarashi2{
-		display: block;
 		background-color: #ccf4fe;
 	}
 
 	.sakurai2{
-		display: block;
 		background-color: #ffcdd9;
 	}
 
 	.inoue2{
-		display: block;
 		background-color: #ff8b8c;
 	}
 
 	.taguchi2{
-		display: block;
 		background-color: #ffe6cd;
 	}
 
 	.kitamura2{
-		display: block;
 		background-color: #ffffcb;
 	}
 
 	.yamamoto2{
-		display: block;
 		background-color: #cbffcf;
 	}
 
 	.morimoto2{
-		display: block;
 		background-color: #8bbcfe;
 	}
 
 	.sakuma2{
-		display: block;
 		background-color: #e5d6fc;
 	}
 	
