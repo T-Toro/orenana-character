@@ -225,12 +225,6 @@ footer {
   z-index: 9;
 }
 
-*, *:before, *:after {
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
-}
-
 ol, ul {
 	list-style: none;
 }
@@ -241,7 +235,7 @@ a {
 }
 
 .cp_cont {
-	display:none;
+	display: none;
 }
 
 .cp_offcm01 {
@@ -312,6 +306,11 @@ a {
 .cp_offcm01 #cp_toggle01:checked ~ label::before {
 	content: '\f00d';
 }
+
+.clear {
+  clear: left;
+}
+
 
 @media all and (max-width: 670px) {
 	.header-right {
