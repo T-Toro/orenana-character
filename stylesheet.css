@@ -387,7 +387,7 @@ a {
 		white-space: nowrap;
 	}
 	
-	span {
+	.emphasis span {
 		display: block;
 		margin-left: 120px;
 	}
