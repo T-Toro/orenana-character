@@ -87,14 +87,14 @@ header {
   text-shadow: 5px 5px 1px #999999;
   z-index: 2;
   padding-left: 3%;
-  top: 33px;
+  top: -25px;
 }
 
 .syosai {
   position: relative;
   top: -310px;
   width: 63%;
-  margin-top: 2%;
+  margin-top: 5%;
   margin-left: 5%;
   font-size: 17px;
 }
