@@ -319,6 +319,10 @@ a {
 		display: none;
 	}
 	
+	.cp_cont {
+		display: block;
+	}
+	
 	.character-illust {
 		top: 10%;
 		left: 20%;
@@ -392,9 +396,6 @@ a {
 		font-size: 22px;
 	}
 	
-	.cp_cont {
-		display: block;
-	}
 }
 
 @media all and (max-width: 480px) {
